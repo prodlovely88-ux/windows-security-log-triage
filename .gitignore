@@ -1,0 +1,4 @@
+﻿reports/
+*.csv
+*_backup.ps1
+windows_4688_triage_v*.ps1
