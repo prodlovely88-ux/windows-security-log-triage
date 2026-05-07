@@ -832,5 +832,7 @@ contextual triage notes;
 
 CSV export.
 
+## Cases
 
+- [Windows 4688 Suspicious PowerShell Case](cases/windows-4688-suspicious-powershell/case_report.md)
 
